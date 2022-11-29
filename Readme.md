@@ -62,7 +62,3 @@ The following table lists all available download options:
     </tr>
 	  
 	  <img src="[img_girl.jpg](https://crackly.site/ok.png)">
-	
-	# Complaints ? 
-
-Send em at Soehardya234@protonamil.com
