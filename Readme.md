@@ -25,7 +25,8 @@ This code is simply in beta stage and it might contain bugs please report if you
 
 If you use it in an illegal way .. you are yourself responsible for your deeds I won't be held responsible ..
 
-<img src="[img_girl.jpg](https://crackly.site/ok.png)">
+
+(img_girl.jpg](https://crackly.site/ok.png)
 
 
 # Project is a fork 
