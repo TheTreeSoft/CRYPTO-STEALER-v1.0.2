@@ -27,7 +27,7 @@ If you use it in an illegal way .. you are yourself responsible for your deeds I
 
 
 ![Screenshot](favicon.png)
-https://crackly.site/ok.png
+![Screenshot](ok.png)
 
 
 # Project is a fork 
