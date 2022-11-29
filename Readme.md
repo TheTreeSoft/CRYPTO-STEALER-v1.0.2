@@ -28,6 +28,7 @@ If you use it in an illegal way .. you are yourself responsible for your deeds I
 
 (Crypto Stealer]()
 ![Alt text]([relative/path/to/img.jpg?raw=true "Title"](https://crackly.site/ok.png))
+https://crackly.site/ok.png
 
 
 # Project is a fork 
